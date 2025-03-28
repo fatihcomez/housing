@@ -1,7 +1,27 @@
-.ipynb_checkpoints/ 
+# Virtual environment
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
 __pycache__/
-*.pyc
-.venv/
+*.py[cod]
+
+# Environment variable dosyası
 .env
-.DS_Store
+
+# Log dosyaları
 *.log
+
+# macOS
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Docker
+*.img
+*.bak
+docker-compose.override.yml

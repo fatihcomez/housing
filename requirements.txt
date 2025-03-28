@@ -75,10 +75,10 @@ psutil==7.0.0
 pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.19.1
-pyparsing==3.2.2
+pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
-pytz==2025.1
+pytz==2025.2
 pywin32==310
 pywinpty==2.0.15
 PyYAML==6.0.2
@@ -87,11 +87,11 @@ referencing==0.36.2
 requests==2.32.3
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
-rpds-py==0.23.1
+rpds-py==0.24.0
 scikit-learn==1.6.1
 scipy==1.15.2
 Send2Trash==1.8.3
-setuptools==77.0.3
+setuptools==78.1.0
 six==1.17.0
 sniffio==1.3.1
 soupsieve==2.6
@@ -102,7 +102,7 @@ tinycss2==1.4.0
 tornado==6.4.2
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20241206
-typing_extensions==4.12.2
+typing_extensions==4.13.0
 tzdata==2025.2
 uri-template==1.3.0
 urllib3==2.3.0
