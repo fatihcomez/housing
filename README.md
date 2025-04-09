@@ -9,6 +9,7 @@ This is my first Docker and GitHub use to host my hands-on practice of chapter 2
 ```bash
 docker build -t housing .
 docker run -p 8888:8888 housing
+```
 
 > Tip: If you're using Docker, make sure to install from `requirements.txt` only.  
 > For debugging or replicating the local environment exactly, use `requirements-freeze.txt`.
